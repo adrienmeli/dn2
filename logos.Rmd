@@ -1,0 +1,108 @@
+---
+title: "Moodle Course Logo Contest"
+subtitle: "DNMADE Year 2"
+author: "DGDMC/TypoNum"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+bibliography: /home/adrien/github/dotfiles/tex/biblio.bib
+output:
+  xaringan::moon_reader:
+    css: [xaringan-themer.css, /home/adrien/github/dotfiles/rmd/columns.css, "ninjutsu"]
+    nature:
+      ratio: "16:9"
+      highlightLines: true
+      countIncrementalSlides: false
+      beforeInit: "/home/adrien/github/dotfiles/rmd/xaringan-macros.js"
+  bookdown::pdf_document2:
+    keep_tex: true
+    toc: false
+    toc_depth: 1
+    number_sections: true
+    #fig_width: 3
+    #fig_height: 1
+    fig_caption: true
+    fig_crop: true
+    df_print: kable
+    highlight: tango
+    pandoc_args: ["--extract-media","article/."]
+    includes:
+      in_header: /home/adrien/github/dotfiles/rmd/rmd-preamble.tex
+      before_body: /home/adrien/github/dotfiles/rmd/before_body.tex
+      after_body: /home/adrien/github/dotfiles/rmd/after_body.tex
+---
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_accent(
+  #   text_font_google   = google_font("Montserrat", "300", "300i"),
+  #   text_font_google   = google_font("Assistant", "400", "300i"),
+  #   code_font_google   = google_font("Fira Mono"),
+  base_color = "#000F08",
+  colors = c(
+  black = "#282c34",
+  red = "#e06c75",
+  purple = "#C678DD",
+  greyc = "#ABB2BF",
+  cyan = "#56B6C2",
+  green = "#98C379",
+  yellow = "#E5C07B",
+  blue = "#61AFEF"
+)
+      )
+# style_duo(primary_color = "#e06c75", secondary_color = "#282c34")
+source('/home/adrien/github/dotfiles/r/rmarkdown-template.R')
+knitr::opts_chunk$set(cache = TRUE, echo = FALSE, warning = FALSE, message = FALSE, fig.align = "center")
+
+```
+
+
+`r ifpdf("\\rmfamily", "")`
+
+# Laura & Daphnée
+
+
+ `r insertimage("laura-daphnée.png", "The English class's holy trinity")`
+
+ `r playsound("laura-daphnée.mp3")`
+
+`r ifpdf("\\vspace*{0.2cm}", "---")`
+
+# Loreen & Tiphaine
+
+ `r insertimage("loreen-tiphaine.jpg", "Coat of arms")`
+
+ `r playsound("loreen-tiphaine.mp3")`
+
+ 
+`r ifpdf("\\vspace*{0.2cm}", "---")`
+
+# Capucine, Jeanne & Philippa
+
+ `r insertimage("cjp.jpg", "")`
+
+ `r playsound("cjp.mp3")`
+ 
+`r ifpdf("\\vspace*{0.2cm}", "---")`
+
+# Charlotte & Shiyoon
+
+ `r insertimage("cs.jpg", "")`
+
+ `r playsound("cs.mp3")`
+
+`r ifpdf("\\vspace*{0.2cm}", "---")`
+
+# Anne & Lili
+ 
+ `r insertimage("al.png", "")`
+
+ `r playsound("al.mp3")`
+
+
+`r ifpdf("\\vspace*{0.2cm}", "---")`
+
+# Alex & Lou-Anne
+ 
+ `r insertimage("ala.png", "")`
+
+ `r playsound("ala.mp3")`
+
