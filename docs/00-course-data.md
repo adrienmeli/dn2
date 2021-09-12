@@ -44,11 +44,6 @@ Français & English\\
 Combien de temps cela te prend-il pour aller à l'École Estienne ? & How long does it take you to go to École Estienne?\\
 \cellcolor{gray!6}{Où habitais-tu l'année dernière ?} & \cellcolor{gray!6}{Where did you live last year?}\\
 Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l'année dernière ? & Have you already been to the MBC which opened last year?\\
-\cellcolor{gray!6}{On m'a dit hier qu'il n'y aurait pas cours la semaine prochaine} & \cellcolor{gray!6}{I was told yesterday that there would be no school next week.}\\
-\addlinespace
-S'il ne faisait pas aussi chaud, je ne serais pas aussi fatigué(e) & It it weren't that hot, I wouldn't be that tired.\\
-\cellcolor{gray!6}{Tu n'aurais pas dû lui parler} & \cellcolor{gray!6}{You shouldn't have spoken to her.}\\
-Si j'avais su, je  n'aurais pas écrit ce courriel. & If I had known, I wouldn't have written that email.\\
 \bottomrule
 \end{longtable}
 
