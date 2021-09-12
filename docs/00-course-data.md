@@ -49,4 +49,21 @@ Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l'année d
 
 
 
+##  Échéances 
+
+
+
+# Travail à faire
+
+
+\begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
+\toprule
+Échéances & Description & Jours restants\\
+\midrule
+\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{5 days}\\
+\bottomrule
+\end{longtable}
+
+
+
 
