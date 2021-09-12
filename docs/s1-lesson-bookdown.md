@@ -56,10 +56,7 @@ Niveau visé : **B2**
 
 
 
----
-
-
-# Translation
+## Translation
 
 
 \begin{longtable}{>{\raggedright\arraybackslash}p{8cm}>{\raggedright\arraybackslash}p{8cm}}
