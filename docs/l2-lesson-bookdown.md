@@ -19,27 +19,27 @@ On dit de ces ordinateurs qu'ils ont coûté très cher. & These computers are s
 \end{longtable}
 
 \begin{center}\itshape\footnotesize
-\includegraphics[width=4cm]{/home/adrien/Teaching/estienne/dn2/l2/queen-victoria.jpg}
+\includegraphics[width=4cm]{/home/adrien/Teaching/estienne/dn2/l2/01-queen-victoria.jpg}
 
 \end{center}
 
 
 
 \begin{center}\itshape\footnotesize
-\includegraphics[width=4cm]{/home/adrien/Teaching/estienne/dn2/l2/william-morris.jpg}
+\includegraphics[width=4cm]{/home/adrien/Teaching/estienne/dn2/l2/02-william-morris.jpg}
 
 \end{center}
 
 
 
 \begin{center}\itshape\footnotesize
-\includegraphics[width=4cm]{/home/adrien/Teaching/estienne/dn2/l2/william-morris-pattern.jpg}
+\includegraphics[width=4cm]{/home/adrien/Teaching/estienne/dn2/l2/03-william-morris-pattern.jpg}
 
 \end{center}
 
 
 
 \begin{center}\itshape\footnotesize
-\includegraphics[width=4cm]{/home/adrien/Teaching/estienne/dn2/l2/kelmscott-book.jpg}
+\includegraphics[width=4cm]{/home/adrien/Teaching/estienne/dn2/l2/04-kelmscott-book.jpg}
 
 \end{center}
