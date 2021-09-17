@@ -1,12 +1,12 @@
 --- 
-title: "L1 Phonologie anglaise"
-subtitle: "Université Gustave Eiffel"
+title: "DNMADE Year 2 Lessons"
+subtitle: "École Estienne"
 author: "Adrien Méli"
 date: "September 17, 2021"
 bibliography: /home/adrien/github/dotfiles/tex/biblio.bib
 biblio-style: "apalike"
 link-citations: yes
-description: "Cours de LEA1 phonologie anglaise"
+description: "A repository of lessons for the year 2021-2022"
 fontawesome: yes
 ---
 
