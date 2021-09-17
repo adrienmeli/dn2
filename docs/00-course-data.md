@@ -128,7 +128,6 @@ ancient & /10/ & /\textipa{"eInS.@nt}/\\
 Échéances & Description & Jours restants\\
 \midrule
 \cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{0 secs}\\
-23/09/2021 & Prepare a reaction to the article “A dark consensus“ & 518400 secs\\
 \bottomrule
 \end{longtable}
 
