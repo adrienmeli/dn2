@@ -80,18 +80,14 @@ croissance, progrès & upswing\\
 Français & English\\
 \midrule
 \cellcolor{gray!6}{Avec qui habites-tu ?} & \cellcolor{gray!6}{Who do you live with?}\\
-Combien de temps cela te prend-il pour aller à l'École Estienne ? & How long does it take you to go to École Estienne?\\
-\cellcolor{gray!6}{Où habitais-tu l'année dernière ?} & \cellcolor{gray!6}{Where did you live last year?}\\
-Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l'année dernière ? & Have you already been to the MBC which opened last year?\\
-\cellcolor{gray!6}{Combien de temps cela te prend-il pour aller à l’École Estienne ?} & \cellcolor{gray!6}{How long does it take you to go to École Estienne?}\\
+Combien de temps cela te prend-il pour aller à l’École Estienne ? & How long does it take you to go to École Estienne?\\
+\cellcolor{gray!6}{Où habitais-tu l’année dernière ?} & \cellcolor{gray!6}{Where did you live last year?}\\
+Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l’année dernière ? & Have you already been to the MBC which opened last year?\\
+\cellcolor{gray!6}{Regarde ! Ils installent de nouveaux ordinateurs !} & \cellcolor{gray!6}{Look! New computers are being installed.}\\
 \addlinespace
-Où habitais-tu l’année dernière ? & Where did you live last year?\\
-\cellcolor{gray!6}{Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l’année dernière ?} & \cellcolor{gray!6}{Have you already been to the MBC which opened last year?}\\
-Regarde ! Ils installent de nouveaux ordinateurs ! & Look! New computers are being installed.\\
-\cellcolor{gray!6}{On m'a dit qu'ils ne fonctionnaient pas très bien...} & \cellcolor{gray!6}{I was told they didn't work properly...}\\
-Ils sont en train d'examiner le problème. & The issue is being looked into.\\
-\addlinespace
-\cellcolor{gray!6}{On dit de ces ordinateurs qu'ils ont coûté très cher.} & \cellcolor{gray!6}{These computers are said to have cost a lot.}\\
+On m'a dit qu'ils ne fonctionnaient pas très bien... & I was told they didn't work properly...\\
+\cellcolor{gray!6}{Ils sont en train d'examiner le problème.} & \cellcolor{gray!6}{The issue is being looked into.}\\
+On dit de ces ordinateurs qu'ils ont coûté très cher. & These computers are said to have cost a lot.\\
 \bottomrule
 \end{longtable}
 
