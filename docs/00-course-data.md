@@ -104,18 +104,6 @@ Ils sont en train d'examiner le problème. & The issue is being looked into.\\
 \toprule
 Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{approval} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@."pru:v.@l}/}\\
-deadline & /10/ & /\textipa{"ded.laIn}/\\
-\cellcolor{gray!6}{early} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"3:l.i}/}\\
-lengthy & /10/ & /\textipa{"leNT.i}/\\
-\cellcolor{gray!6}{once} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{w2ns}/}\\
-\addlinespace
-receive & /01/ & /\textipa{ri."si:v}/\\
-\cellcolor{gray!6}{rough} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{r2f}/}\\
-schedule & /10/ & /\textipa{"Sed.ju:l}/\\
-\cellcolor{gray!6}{signature} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sIg.n@tS.@}/}\\
-smooth & /1/ & /\textipa{smu:D}/\\
-\addlinespace
 \cellcolor{gray!6}{abroad} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."brO:d}/}\\
 pressure & /10/ & /\textipa{"preS.@}/\\
 \cellcolor{gray!6}{occur} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."k3:}/}\\
