@@ -6,7 +6,6 @@
 
 ## Syllabus
 
-
 Les compétences du référentiel suivantes devront être évaluées en cours d'anglais :
 
 \pagebreak
@@ -64,16 +63,15 @@ Niveau visé : **B2**
 Français & English\\
 \midrule
 \cellcolor{gray!6}{Avec qui habites-tu ?} & \cellcolor{gray!6}{Who do you live with?}\\
-Combien de temps cela te prend-il pour aller à l'École Estienne ? & How long does it take you to go to École Estienne?\\
-\cellcolor{gray!6}{Où habitais-tu l'année dernière ?} & \cellcolor{gray!6}{Where did you live last year?}\\
-Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l'année dernière ? & Have you already been to the MBC which opened last year?\\
+Combien de temps cela te prend-il pour aller à l’École Estienne ? & How long does it take you to go to École Estienne?\\
+\cellcolor{gray!6}{Où habitais-tu l’année dernière ?} & \cellcolor{gray!6}{Where did you live last year?}\\
+Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l’année dernière ? & Have you already been to the MBC which opened last year?\\
 \bottomrule
 \end{longtable}
 
 
 
 ## Polls
-
 
 ### Before and during the poll
 
@@ -87,9 +85,7 @@ Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l'année d
 
 
  
-
 ### After the poll
-
 
 
 
@@ -99,10 +95,7 @@ Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l'année d
 - Say whether you belong to the majority opinion or not.
 - Say whether the results surprise you, and why.
   
-
  
-
-
 
 
  
@@ -135,7 +128,6 @@ un veau & a calf\\
 
 
 
-
 ### Example
 
 1. Do you like cheese?
@@ -151,6 +143,33 @@ un veau & a calf\\
 
 
 
+\begin{longtable}{l}
+\toprule
+x\\
+\midrule
+\cellcolor{gray!6}{Does it take you more than 45 minutes to go to École Estienne?}\\
+Do you own a laptop?\\
+\cellcolor{gray!6}{If you have a laptop, is it a PC or a Mac?}\\
+Have the lockdown and the pandemic changed your views on things, your perspective on life?\\
+\cellcolor{gray!6}{Will you celebrate when the pandemic is over?}\\
+\addlinespace
+Was last year a good year for you?\\
+\cellcolor{gray!6}{Do you speak a foreign language at home?}\\
+Have you spent more than a month in an English-speaking country?\\
+\cellcolor{gray!6}{On a scale of 1 (not good) to 5 (excellent), how would you rate your internship last year?}\\
+Would you like to create your own company?\\
+\addlinespace
+\cellcolor{gray!6}{Can you type faster than you write?}\\
+Which Bac did you obtain?\\
+\cellcolor{gray!6}{When you watch a series or a film, do you watch it:}\\
+If you could bring one artist back to life, who would you choose?\\
+\cellcolor{gray!6}{How many people do you live with this year?}\\
+\addlinespace
+What would you like to study in priority in English?\\
+\cellcolor{gray!6}{What activity do you think should be worked more in class?}\\
+How would you rate your level of English?\\
+\bottomrule
+\end{longtable}
 
 ### Question
 
@@ -238,7 +257,6 @@ un veau & a calf\\
 
 
 
-
 ### Question
 
  1. Have you spent more than a month in an English-speaking country?
@@ -248,108 +266,5 @@ un veau & a calf\\
 * Yes: 3
 
 * No: 16
-
-
-
-### Question
-
- 1. On a scale of 1 (not good) to 5 (excellent), how would you rate your internship last year?
-
-(<++>)
-
-* Yes: 10
-
-* No: 10
-
-
-
-### Question
-
- 1. Would you like to create your own company?
-
-(<++>)
-
-* Yes: 10
-
-* No: 10
-
-
-
-### Question
-
- 1. Can you type faster than you write?
-
-(<++>)
-
-* Yes: 10
-
-* No: 10
-
-
-
-### Question
-
- 1. Which Bac did you obtain?
-    - General
-    - Technologique
-    - Professionnel
-
-
-
-### Question
-
- 1. When you watch a series or a film, do you watch it:
-    - in French
-    - in English with French subtitles
-    - in English with English subtitles
-    - in English with no subtitles
-
-
-
-### Question
-
- 1. If you could bring one artist back to life, who would you choose?
-    - Shakespeare
-    - Michelangelo
-    - Bach
-
-
-
-### Question
-
- 1. How many people do you live with this year?
-    - 0 (I live alone)
-    - 1
-    - 2
-    - 3 and above
-
-
-
-### Question
-
- 1. What would you like to study in priority in English?
-    - The news
-    - Arts
-    - English in the workplace
-
-
-
-### Question
-
- 1. What activity do you think should be worked more in class?
-    - speaking
-    - listening
-    - writing
-    - reading
-
-
-
-### Question
-
- 1. How would you rate your level of English?
-    - Not good
-    - So so
-    - OK
-    - Very good
 
 

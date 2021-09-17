@@ -28,6 +28,45 @@ un stage & an internship\\
 \cellcolor{gray!6}{évaluer} & \cellcolor{gray!6}{to rate}\\
 un veau & a calf\\
 \cellcolor{gray!6}{un mollet} & \cellcolor{gray!6}{a calf}\\
+\addlinespace
+augmenter & to increase\\
+\cellcolor{gray!6}{à l'étranger} & \cellcolor{gray!6}{abroad}\\
+la renommée & standing\\
+\cellcolor{gray!6}{épouvantable} & \cellcolor{gray!6}{horrendous}\\
+une tension & a strain\\
+\addlinespace
+\cellcolor{gray!6}{libérer} & \cellcolor{gray!6}{to unleash}\\
+au cours de & throughout\\
+\cellcolor{gray!6}{s’appliquer à} & \cellcolor{gray!6}{to apply to}\\
+éviter & to avoid\\
+\cellcolor{gray!6}{de l’agitation politique} & \cellcolor{gray!6}{unrest}\\
+\addlinespace
+réussir à, parvenir à & to manage to\\
+\cellcolor{gray!6}{la croissance} & \cellcolor{gray!6}{growth}\\
+la famine & starvation\\
+\cellcolor{gray!6}{un moyen} & \cellcolor{gray!6}{a means}\\
+une percée & a breakthrough\\
+\addlinespace
+\cellcolor{gray!6}{assister à} & \cellcolor{gray!6}{to attend}\\
+accomplir & to achieve\\
+\cellcolor{gray!6}{antérieur, précédent} & \cellcolor{gray!6}{previous}\\
+défendable & arguable\\
+\cellcolor{gray!6}{stupéfiant, incroyable} & \cellcolor{gray!6}{staggering}\\
+\addlinespace
+un bond & a leap\\
+\cellcolor{gray!6}{la foi} & \cellcolor{gray!6}{faith}\\
+une récolte & a harvest\\
+\cellcolor{gray!6}{se produire} & \cellcolor{gray!6}{to occur}\\
+(s') accélerer & to quicken\\
+\addlinespace
+\cellcolor{gray!6}{à partir de X} & \cellcolor{gray!6}{from X onwards}\\
+un réseau & a network\\
+\cellcolor{gray!6}{sous-tendre} & \cellcolor{gray!6}{to underpin}\\
+une décennie & a decade\\
+\cellcolor{gray!6}{considérable} & \cellcolor{gray!6}{tremendous}\\
+\addlinespace
+croissance, progrès & upswing\\
+\cellcolor{gray!6}{aller de pair} & \cellcolor{gray!6}{to go hand in hand}\\
 \bottomrule
 \end{longtable}
 
@@ -44,6 +83,50 @@ Français & English\\
 Combien de temps cela te prend-il pour aller à l'École Estienne ? & How long does it take you to go to École Estienne?\\
 \cellcolor{gray!6}{Où habitais-tu l'année dernière ?} & \cellcolor{gray!6}{Where did you live last year?}\\
 Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l'année dernière ? & Have you already been to the MBC which opened last year?\\
+\cellcolor{gray!6}{Combien de temps cela te prend-il pour aller à l’École Estienne ?} & \cellcolor{gray!6}{How long does it take you to go to École Estienne?}\\
+\addlinespace
+Où habitais-tu l’année dernière ? & Where did you live last year?\\
+\cellcolor{gray!6}{Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l’année dernière ?} & \cellcolor{gray!6}{Have you already been to the MBC which opened last year?}\\
+Regarde ! Ils installent de nouveaux ordinateurs ! & Look! New computers are being installed.\\
+\cellcolor{gray!6}{On m'a dit qu'ils ne fonctionnaient pas très bien...} & \cellcolor{gray!6}{I was told they didn't work properly...}\\
+Ils sont en train d'examiner le problème. & The issue is being looked into.\\
+\addlinespace
+\cellcolor{gray!6}{On dit de ces ordinateurs qu'ils ont coûté très cher.} & \cellcolor{gray!6}{These computers are said to have cost a lot.}\\
+\bottomrule
+\end{longtable}
+
+
+
+##  Prononciation 
+
+
+\begin{longtable}{lll}
+\toprule
+Word & Stress & Received Pronunciation\\
+\midrule
+\cellcolor{gray!6}{approval} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@."pru:v.@l}/}\\
+deadline & /10/ & /\textipa{"ded.laIn}/\\
+\cellcolor{gray!6}{early} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"3:l.i}/}\\
+lengthy & /10/ & /\textipa{"leNT.i}/\\
+\cellcolor{gray!6}{once} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{w2ns}/}\\
+\addlinespace
+receive & /01/ & /\textipa{ri."si:v}/\\
+\cellcolor{gray!6}{rough} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{r2f}/}\\
+schedule & /10/ & /\textipa{"Sed.ju:l}/\\
+\cellcolor{gray!6}{signature} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sIg.n@tS.@}/}\\
+smooth & /1/ & /\textipa{smu:D}/\\
+\addlinespace
+\cellcolor{gray!6}{abroad} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."brO:d}/}\\
+pressure & /10/ & /\textipa{"preS.@}/\\
+\cellcolor{gray!6}{occur} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."k3:}/}\\
+unique & /01/ & /\textipa{ju."ni:k}/\\
+\cellcolor{gray!6}{achieve} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."tSi:v}/}\\
+\addlinespace
+empire & /100/ & /\textipa{"emp.aI.@}/\\
+\cellcolor{gray!6}{era} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"I@r.@}/}\\
+scientific & /2010/ & /\textipa{""saI.@n."tIf.Ik}/\\
+\cellcolor{gray!6}{breakthrough} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"breIk.Tru:}/}\\
+ancient & /10/ & /\textipa{"eInS.@nt}/\\
 \bottomrule
 \end{longtable}
 
@@ -53,17 +136,19 @@ Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l'année d
 
 
 
-# Travail à faire
+# Échéances
 
 
 \begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{5 days}\\
+\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{0 secs}\\
 \bottomrule
 \end{longtable}
 
 
 
+## Flashcards
 
+NULL
