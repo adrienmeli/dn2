@@ -119,15 +119,11 @@ ancient & /10/ & /\textipa{"eInS.@nt}/\\
 ##  Échéances 
 
 
-
-# Échéances
-
-
 \begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{0 secs}\\
+\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{0 days}\\
 \bottomrule
 \end{longtable}
 
