@@ -86,7 +86,7 @@ de très mauvaise qualité & shoddy\\
 \cellcolor{gray!6}{en raison de} & \cellcolor{gray!6}{due to}\\
 se transformer en, devenir & to turn into\\
 \cellcolor{gray!6}{la fortune} & \cellcolor{gray!6}{wealth}\\
-par conséquent & therefore\\
+par conséquent & \vphantom{1} therefore\\
 \cellcolor{gray!6}{dans le sillage de} & \cellcolor{gray!6}{in the wake of}\\
 \addlinespace
 faire des progrès & to make headway\\
@@ -128,6 +128,91 @@ mettre en valeur & to emphasize\\
 une tache, un défaut & a blemish\\
 \cellcolor{gray!6}{fabriquer} & \cellcolor{gray!6}{to manufacture}\\
 uniquement & solely\\
+\cellcolor{gray!6}{donner le feu vert} & \cellcolor{gray!6}{to greenlight}\\
+en dépit de & in spite \vphantom{1} of\\
+\addlinespace
+\cellcolor{gray!6}{bien que} & \cellcolor{gray!6}{although}\\
+un discours & an utterance\\
+\cellcolor{gray!6}{en dépit de} & \cellcolor{gray!6}{in spite of}\\
+une déception & a disappointment\\
+\cellcolor{gray!6}{parmi} & \cellcolor{gray!6}{among(st)}\\
+\addlinespace
+pourtant & yet\\
+\cellcolor{gray!6}{car} & \cellcolor{gray!6}{for}\\
+à moins que & unless\\
+\cellcolor{gray!6}{une marque, un signe} & \cellcolor{gray!6}{a token}\\
+travailler dur & to toil\\
+\addlinespace
+\cellcolor{gray!6}{par conséquent} & \cellcolor{gray!6}{therefore}\\
+un fardeau & a burden\\
+\cellcolor{gray!6}{sanctifier} & \cellcolor{gray!6}{to hallow}\\
+un but & an aim\\
+\cellcolor{gray!6}{un grand pas} & \cellcolor{gray!6}{a stride}\\
+\addlinespace
+un zélote & a votary\\
+\cellcolor{gray!6}{adorer} & \cellcolor{gray!6}{to worship}\\
+un coffret & a casket\\
+\cellcolor{gray!6}{au milieu de} & \cellcolor{gray!6}{amid(st)}\\
+un repos & a rest\\
+\addlinespace
+\cellcolor{gray!6}{s'efforcer} & \cellcolor{gray!6}{to strive}\\
+capter & to engross\\
+\cellcolor{gray!6}{la perspicacité} & \cellcolor{gray!6}{insight}\\
+ignorer & to disreguard\\
+\cellcolor{gray!6}{manquer} & \cellcolor{gray!6}{to lack}\\
+\addlinespace
+s'étonner & to wonder\\
+\cellcolor{gray!6}{inonder} & \cellcolor{gray!6}{to flood}\\
+des élucubrations & twaddle\\
+\cellcolor{gray!6}{envers} & \cellcolor{gray!6}{towards}\\
+cesser & to cease\\
+\bottomrule
+\end{longtable}
+
+
+
+##  Définitions 
+
+
+\begin{longtable}{>{\raggedright\arraybackslash}p{8cm}>{\raggedright\arraybackslash}p{8cm}}
+\toprule
+Expression & Definition\\
+\midrule
+\cellcolor{gray!6}{BACK} & \cellcolor{gray!6}{the side of the signatures along which the leaves are folded. A synonym for spine}\\
+BACKING & a light-weight strip of cardboard that is placed between the spine and the covering to stiffen the latter\\
+\cellcolor{gray!6}{BACKLINING} & \cellcolor{gray!6}{a stiff strip that acts as the base for making the spine. It is made of the same material as the cover}\\
+BANDS & the sewing supports (cords) when they are not sunk, but are outside the spine\\
+\cellcolor{gray!6}{BOARDS} & \cellcolor{gray!6}{the cover boards when they are made of wood}\\
+\addlinespace
+BOOKMARK & a ribbon or cord inserted between the pages and attached to the upper-inside part of the spine\\
+\cellcolor{gray!6}{COLOPHON} & \cellcolor{gray!6}{also called publisher’s postcript, it is, in a printed book the final annotation which gives the printer’s name, location, and date of publication}\\
+COVERING & the material which covers the cover structure. Also the operation of applying it\\
+\cellcolor{gray!6}{COVER} & \cellcolor{gray!6}{the structure or material that covers the book block}\\
+CREASING & the groove, which in bookbinding is made with a particular machine or manually with a bone folder, that folds paper and cardboard without damaging them\\
+\addlinespace
+\cellcolor{gray!6}{EDGE} & \cellcolor{gray!6}{the three-side surfaces along which the book opens. Corresponds to the outer borders of the sheets}\\
+COVER BOARDS & the two side parts of the cover that cover the surfaces of the book. Also the cardboard pieces before they are covered\\
+\cellcolor{gray!6}{FLAPS} & \cellcolor{gray!6}{the cover board turn-ins of typographic covers}\\
+CASING & the operation in which the book block is inserted and joined to the cover by pasting the flyleaves\\
+\cellcolor{gray!6}{FLYLEAVES} & \cellcolor{gray!6}{situated at the beginning and the end of a book. The leaves are folded in two parts, one of which is pasted to the inside of the cover while the other forms the first and last pages of the book}\\
+\addlinespace
+FORE-EDGE & in books with rounded spines, this is the rounded recess along the whole edge of the book\\
+\cellcolor{gray!6}{GAP} & \cellcolor{gray!6}{a small space left between the shoulder and the tip of the cover boards so that they can open more easily}\\
+GROOVE & the groove between the spine and the board covers\\
+\cellcolor{gray!6}{HEAD} & \cellcolor{gray!6}{the upper part of the book}\\
+ROUNDING & the operation involved in making the spine rounded\\
+\addlinespace
+\cellcolor{gray!6}{SEWING} & \cellcolor{gray!6}{the operation that enables the signatures to be kept together. It can be done in link-stitch, half-stitch, or full-stitch}\\
+SHOULDER & obtained by rounding. It is the same thickness as the cover boards\\
+\cellcolor{gray!6}{HEADBAND} & \cellcolor{gray!6}{the silk band that encircles the spine and protrudes at the head and tail}\\
+SIGNATURE or SECTION & two or more sheets folded in half and inserted into each other. The result of folding the printed or blank sheets\\
+\cellcolor{gray!6}{SPINE} & \cellcolor{gray!6}{the side of the book in which the signatures are sewed together}\\
+\addlinespace
+TAIL & lower part of the book\\
+\cellcolor{gray!6}{TAPPING (ALIGNING)} & \cellcolor{gray!6}{a recurring operation that is necessary for keeping the edges of the sheets and the backs of the signatures aligned}\\
+TITLE PAGE & the page that proceeds the text and bears the title and author’s name\\
+\cellcolor{gray!6}{TRIMMING} & \cellcolor{gray!6}{carried out on individual signatures to even them out and make them the same size}\\
+WASTE PAPER & a technical term to define all the paper (newspaper and wrapping paper) that are used as a support while working\\
 \bottomrule
 \end{longtable}
 
@@ -154,6 +239,11 @@ S'il ne faisait pas aussi chaud, je ne serais pas aussi fatigué(e) & It it were
 \addlinespace
 \cellcolor{gray!6}{Tu n'aurais pas dû lui parler} & \cellcolor{gray!6}{You shouldn't have spoken to her.}\\
 Si j'avais su, je  n'aurais pas écrit ce courriel. & If I had known, I wouldn't have written that email.\\
+\cellcolor{gray!6}{Tu n'aurais pas dû donner le feu vert à cette maquette.} & \cellcolor{gray!6}{You should not have given the green light to this layout.}\\
+Ces livres ont été publiés en dépit de leurs défauts. & These books were published in spite of their shortcomings.\\
+\cellcolor{gray!6}{As-tu assisté à la vidéo-conférence hier soir?} & \cellcolor{gray!6}{Did you attend yesterday's video meeting?}\\
+\addlinespace
+Morris n'achetait que des produits fabriqués par les meilleurs artisans. & Morris only boughts products manufactured by the best craftsmen.\\
 \bottomrule
 \end{longtable}
 
@@ -182,7 +272,7 @@ ancient & /10/ & /\textipa{"eInS.@nt}/\\
 associate & /0100/ & /\textipa{@."s@US.i.eIt}/\\
 \cellcolor{gray!6}{linen} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"lIn.In}/}\\
 leather & /10/ & /\textipa{"leD.@}/\\
-\cellcolor{gray!6}{gilded} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{gilded}\\
+\cellcolor{gray!6}{gilded} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/NA/}\\
 \addlinespace
 rough & /1/ & /\textipa{r2f}/\\
 \cellcolor{gray!6}{lecture} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"lek.tS@}/}\\
@@ -193,7 +283,7 @@ cathedral & /010/ & /\textipa{k@."Ti:dr.@l}/\\
 \cellcolor{gray!6}{bindery} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"baInd.@r.i}/}\\
 blemish & /10/ & /\textipa{"blem.IS}/\\
 \cellcolor{gray!6}{pattern} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"p\ae t.@n}/}\\
-emphasize & // & emphasize\\
+emphasize & // & /NA/\\
 \cellcolor{gray!6}{sequel} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"si:k.w@l}/}\\
 \addlinespace
 manufacture & /2010/ & /\textipa{""m\ae n.ju."f\ae k.tS@}/\\
@@ -206,6 +296,17 @@ avoid & /01/ & /\textipa{@."vOId}/\\
 pleasure & /10/ & /\textipa{"pleZ.@}/\\
 \cellcolor{gray!6}{mediocre} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""mi:d.i."@Uk.@}/}\\
 novel & /10/ & /\textipa{"n6v.@l}/\\
+\cellcolor{gray!6}{signature} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sIg.n@tS.@}/}\\
+\addlinespace
+labour & /10/ & /\textipa{"leIb.@}/\\
+\cellcolor{gray!6}{although} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{O:l."D@U}/}\\
+worthless & /10/ & /\textipa{"w3:T.l@s}/\\
+\cellcolor{gray!6}{knowledge} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"n6l.IdZ}/}\\
+burden & /10/ & /\textipa{"b3:d.@n}/\\
+\addlinespace
+\cellcolor{gray!6}{society} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{s@."saI.@t.i}/}\\
+ethical & /100/ & /\textipa{"eT.Ik.@l}/\\
+\cellcolor{gray!6}{contemporary} & \cellcolor{gray!6}{/01000/} & \cellcolor{gray!6}{/\textipa{k@n."temp.@r.@r.i}/}\\
 \bottomrule
 \end{longtable}
 
@@ -214,11 +315,11 @@ novel & /10/ & /\textipa{"n6v.@l}/\\
 ##  Échéances 
 
 
-\begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
+\begin{longtable}{>{\raggedright\arraybackslash}p{3cm}>{\raggedright\arraybackslash}p{13cm}}
 \toprule
-Échéances & Description & Jours restants\\
+Échéances & Instructions\\
 \midrule
-\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{-7 days}\\
+\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.}\\
 \bottomrule
 \end{longtable}
 
