@@ -131,38 +131,84 @@ uniquement & solely\\
 \cellcolor{gray!6}{donner le feu vert} & \cellcolor{gray!6}{to greenlight}\\
 en dépit de & in spite \vphantom{1} of\\
 \addlinespace
+\cellcolor{gray!6}{bien que} & \cellcolor{gray!6}{\vphantom{1} although}\\
+un discours & an \vphantom{1} utterance\\
+\cellcolor{gray!6}{une déception} & \cellcolor{gray!6}{a \vphantom{1} disappointment}\\
+parmi & \vphantom{1} among(st)\\
+\cellcolor{gray!6}{pourtant} & \cellcolor{gray!6}{\vphantom{1} yet}\\
+\addlinespace
+car & \vphantom{1} for\\
+\cellcolor{gray!6}{à moins que} & \cellcolor{gray!6}{\vphantom{1} unless}\\
+une marque, un signe & a \vphantom{1} token\\
+\cellcolor{gray!6}{travailler dur} & \cellcolor{gray!6}{to \vphantom{1} toil}\\
+un fardeau & a \vphantom{1} burden\\
+\addlinespace
+\cellcolor{gray!6}{sanctifier} & \cellcolor{gray!6}{to \vphantom{1} hallow}\\
+un but & an \vphantom{1} aim\\
+\cellcolor{gray!6}{un grand pas} & \cellcolor{gray!6}{a \vphantom{1} stride}\\
+un zélote & a \vphantom{1} votary\\
+\cellcolor{gray!6}{adorer} & \cellcolor{gray!6}{to \vphantom{1} worship}\\
+\addlinespace
+un coffret & a \vphantom{1} casket\\
+\cellcolor{gray!6}{au milieu de} & \cellcolor{gray!6}{\vphantom{1} amid(st)}\\
+un repos & a \vphantom{1} rest\\
+\cellcolor{gray!6}{s'efforcer} & \cellcolor{gray!6}{to \vphantom{1} strive}\\
+capter & to \vphantom{1} engross\\
+\addlinespace
+\cellcolor{gray!6}{la perspicacité} & \cellcolor{gray!6}{\vphantom{1} insight}\\
+ignorer & to \vphantom{1} disreguard\\
+\cellcolor{gray!6}{manquer} & \cellcolor{gray!6}{to \vphantom{1} lack}\\
+s'étonner & to \vphantom{1} wonder\\
+\cellcolor{gray!6}{inonder} & \cellcolor{gray!6}{to \vphantom{1} flood}\\
+\addlinespace
+des élucubrations & \vphantom{1} twaddle\\
+\cellcolor{gray!6}{envers} & \cellcolor{gray!6}{\vphantom{1} towards}\\
+cesser & to \vphantom{1} cease\\
+\cellcolor{gray!6}{authentique} & \cellcolor{gray!6}{genuine}\\
+une campagne de publicité & an advertising campaign\\
+\addlinespace
+\cellcolor{gray!6}{méditer} & \cellcolor{gray!6}{to ponder}\\
+les fournitures de bureau & stationery\\
+\cellcolor{gray!6}{une annonce} & \cellcolor{gray!6}{an annoucement}\\
+dispenser qn de & to save sb -ING\\
+\cellcolor{gray!6}{pensif} & \cellcolor{gray!6}{thoughtful}\\
+\addlinespace
+compatir & to sympathise\\
+\cellcolor{gray!6}{le nom de famille} & \cellcolor{gray!6}{the surname}\\
+enterrer & to bury\\
 \cellcolor{gray!6}{bien que} & \cellcolor{gray!6}{although}\\
 un discours & an utterance\\
+\addlinespace
 \cellcolor{gray!6}{en dépit de} & \cellcolor{gray!6}{in spite of}\\
 une déception & a disappointment\\
 \cellcolor{gray!6}{parmi} & \cellcolor{gray!6}{among(st)}\\
-\addlinespace
 pourtant & yet\\
 \cellcolor{gray!6}{car} & \cellcolor{gray!6}{for}\\
+\addlinespace
 à moins que & unless\\
 \cellcolor{gray!6}{une marque, un signe} & \cellcolor{gray!6}{a token}\\
 travailler dur & to toil\\
-\addlinespace
 \cellcolor{gray!6}{par conséquent} & \cellcolor{gray!6}{therefore}\\
 un fardeau & a burden\\
+\addlinespace
 \cellcolor{gray!6}{sanctifier} & \cellcolor{gray!6}{to hallow}\\
 un but & an aim\\
 \cellcolor{gray!6}{un grand pas} & \cellcolor{gray!6}{a stride}\\
-\addlinespace
 un zélote & a votary\\
 \cellcolor{gray!6}{adorer} & \cellcolor{gray!6}{to worship}\\
+\addlinespace
 un coffret & a casket\\
 \cellcolor{gray!6}{au milieu de} & \cellcolor{gray!6}{amid(st)}\\
 un repos & a rest\\
-\addlinespace
 \cellcolor{gray!6}{s'efforcer} & \cellcolor{gray!6}{to strive}\\
 capter & to engross\\
+\addlinespace
 \cellcolor{gray!6}{la perspicacité} & \cellcolor{gray!6}{insight}\\
 ignorer & to disreguard\\
 \cellcolor{gray!6}{manquer} & \cellcolor{gray!6}{to lack}\\
-\addlinespace
 s'étonner & to wonder\\
 \cellcolor{gray!6}{inonder} & \cellcolor{gray!6}{to flood}\\
+\addlinespace
 des élucubrations & twaddle\\
 \cellcolor{gray!6}{envers} & \cellcolor{gray!6}{towards}\\
 cesser & to cease\\
@@ -244,6 +290,10 @@ Ces livres ont été publiés en dépit de leurs défauts. & These books were pu
 \cellcolor{gray!6}{As-tu assisté à la vidéo-conférence hier soir?} & \cellcolor{gray!6}{Did you attend yesterday's video meeting?}\\
 \addlinespace
 Morris n'achetait que des produits fabriqués par les meilleurs artisans. & Morris only boughts products manufactured by the best craftsmen.\\
+\cellcolor{gray!6}{À moins que tu ne sois pas d'accord, je pense que nous devrions choisir cette option.} & \cellcolor{gray!6}{Unless you disagree, I think we should choose this option.}\\
+Nous nous efforçons de répondre au mieux aux exigences des clients . & We strive to meet our customers' requirements as well as we can.\\
+\cellcolor{gray!6}{J'ai dû assister à la réunion en dépit d'un emploi du temps très serré.} & \cellcolor{gray!6}{I had to attend the meeting in spite of a very tight schedule.}\\
+Il a dû oublier de leur envoyer la nouvelle maquette. & He must have forgotten to send them the new layout.\\
 \bottomrule
 \end{longtable}
 
@@ -307,6 +357,18 @@ burden & /10/ & /\textipa{"b3:d.@n}/\\
 \cellcolor{gray!6}{society} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{s@."saI.@t.i}/}\\
 ethical & /100/ & /\textipa{"eT.Ik.@l}/\\
 \cellcolor{gray!6}{contemporary} & \cellcolor{gray!6}{/01000/} & \cellcolor{gray!6}{/\textipa{k@n."temp.@r.@r.i}/}\\
+singer & /10/ & /\textipa{"sIN.@}/\\
+\cellcolor{gray!6}{medium} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"mi:d.i.@m}/}\\
+\addlinespace
+genuine & /100/ & /\textipa{"dZen.ju.In}/\\
+\cellcolor{gray!6}{advertise} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"\ae d.v@.taIz}/}\\
+bury & /10/ & /\textipa{"ber.i}/\\
+\cellcolor{gray!6}{series} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"sI@r.i:z}/}\\
+stationery & /1000/ & /\textipa{"steIS.@n.@r.i}/\\
+\addlinespace
+\cellcolor{gray!6}{study} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"st2d.i}/}\\
+thoughtful & /10/ & /\textipa{"TO:t.f@l}/\\
+\cellcolor{gray!6}{initial} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{I."nIS.@l}/}\\
 \bottomrule
 \end{longtable}
 
