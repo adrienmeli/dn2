@@ -48,7 +48,7 @@ la famine & starvation\\
 une percée & a breakthrough\\
 \addlinespace
 \cellcolor{gray!6}{assister à} & \cellcolor{gray!6}{to attend}\\
-accomplir & to achieve\\
+accomplir & to \vphantom{1} achieve\\
 \cellcolor{gray!6}{antérieur, précédent} & \cellcolor{gray!6}{previous}\\
 défendable & arguable\\
 \cellcolor{gray!6}{stupéfiant, incroyable} & \cellcolor{gray!6}{staggering}\\
@@ -131,7 +131,7 @@ uniquement & solely\\
 \cellcolor{gray!6}{donner le feu vert} & \cellcolor{gray!6}{to greenlight}\\
 en dépit de & in spite \vphantom{1} of\\
 \addlinespace
-\cellcolor{gray!6}{bien que} & \cellcolor{gray!6}{\vphantom{1} although}\\
+\cellcolor{gray!6}{bien que} & \cellcolor{gray!6}{\vphantom{2} although}\\
 un discours & an \vphantom{1} utterance\\
 \cellcolor{gray!6}{une déception} & \cellcolor{gray!6}{a \vphantom{1} disappointment}\\
 parmi & \vphantom{1} among(st)\\
@@ -176,7 +176,7 @@ dispenser qn de & to save sb -ING\\
 compatir & to sympathise\\
 \cellcolor{gray!6}{le nom de famille} & \cellcolor{gray!6}{the surname}\\
 enterrer & to bury\\
-\cellcolor{gray!6}{bien que} & \cellcolor{gray!6}{although}\\
+\cellcolor{gray!6}{bien que} & \cellcolor{gray!6}{\vphantom{1} although}\\
 un discours & an utterance\\
 \addlinespace
 \cellcolor{gray!6}{en dépit de} & \cellcolor{gray!6}{in spite of}\\
@@ -212,6 +212,30 @@ s'étonner & to wonder\\
 des élucubrations & twaddle\\
 \cellcolor{gray!6}{envers} & \cellcolor{gray!6}{towards}\\
 cesser & to cease\\
+\cellcolor{gray!6}{raffiné} & \cellcolor{gray!6}{exquisite}\\
+présenter, comporter & to feature\\
+\addlinespace
+\cellcolor{gray!6}{demeurer} & \cellcolor{gray!6}{to remain}\\
+au lieu de & instead of\\
+\cellcolor{gray!6}{bien que} & \cellcolor{gray!6}{although}\\
+aisé & wealthy\\
+\cellcolor{gray!6}{un foyer} & \cellcolor{gray!6}{a household}\\
+\addlinespace
+un surnom & a nickname\\
+\cellcolor{gray!6}{façonner} & \cellcolor{gray!6}{to craft}\\
+un journal intime & a diary\\
+\cellcolor{gray!6}{avoir honte de} & \cellcolor{gray!6}{to be ashamed of}\\
+de l’adresse & deftness\\
+\addlinespace
+\cellcolor{gray!6}{un point (couture)} & \cellcolor{gray!6}{a stitch}\\
+du tissu & fabric\\
+\cellcolor{gray!6}{une aquarelle} & \cellcolor{gray!6}{a watercolour}\\
+détester & to loathe\\
+\cellcolor{gray!6}{élever qqch} & \cellcolor{gray!6}{to raise}\\
+\addlinespace
+avertir de & to warn aganist\\
+\cellcolor{gray!6}{diffamatoire} & \cellcolor{gray!6}{libellous}\\
+accomplir & to achieve\\
 \bottomrule
 \end{longtable}
 
@@ -294,6 +318,11 @@ Morris n'achetait que des produits fabriqués par les meilleurs artisans. & Morr
 Nous nous efforçons de répondre au mieux aux exigences des clients . & We strive to meet our customers' requirements as well as we can.\\
 \cellcolor{gray!6}{J'ai dû assister à la réunion en dépit d'un emploi du temps très serré.} & \cellcolor{gray!6}{I had to attend the meeting in spite of a very tight schedule.}\\
 Il a dû oublier de leur envoyer la nouvelle maquette. & He must have forgotten to send them the new layout.\\
+\addlinespace
+\cellcolor{gray!6}{Les peintres pré-raphaelites ont dû avoir beaucoup d'influence.} & \cellcolor{gray!6}{The Pre-Raphaelites must have had a lot of influence.}\\
+Il se pourrait que cette œuvre ait été découverte par hasard. & This work might have been discovered by chance.\\
+\cellcolor{gray!6}{Voilà des mois que je me pose aussi cette question !} & \cellcolor{gray!6}{I've been wondering for months about that too!}\\
+Le projet sur lequel je travaille depuis vendredi m'ennuie un peu. & The project I've been working on since Friday bores me.\\
 \bottomrule
 \end{longtable}
 
@@ -369,6 +398,14 @@ stationery & /1000/ & /\textipa{"steIS.@n.@r.i}/\\
 \cellcolor{gray!6}{study} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"st2d.i}/}\\
 thoughtful & /10/ & /\textipa{"TO:t.f@l}/\\
 \cellcolor{gray!6}{initial} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{I."nIS.@l}/}\\
+chore & /1/ & /\textipa{tSO:}/\\
+\cellcolor{gray!6}{instead} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."sted}/}\\
+\addlinespace
+wealthy & /10/ & /\textipa{"welT.i}/\\
+\cellcolor{gray!6}{journey} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dZ3:n.i}/}\\
+diary & /100/ & /\textipa{"daI.@r.i}/\\
+\cellcolor{gray!6}{loathe} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l@UD}/}\\
+libellous & /100/ & /\textipa{"laIb.@l.@s}/\\
 \bottomrule
 \end{longtable}
 
