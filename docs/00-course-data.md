@@ -73,7 +73,7 @@ provenir de & to stem from\\
 \addlinespace
 \cellcolor{gray!6}{se produire, se passer} & \cellcolor{gray!6}{to occur}\\
 approfondi, minutieux & thorough\\
-\cellcolor{gray!6}{une forme} & \cellcolor{gray!6}{a shape}\\
+\cellcolor{gray!6}{une forme} & \cellcolor{gray!6}{a \vphantom{1} shape}\\
 un métier, un artisanat & a craft\\
 \cellcolor{gray!6}{dans l'ensemble} & \cellcolor{gray!6}{on the whole}\\
 \addlinespace
@@ -176,66 +176,230 @@ dispenser qn de & to save sb -ING\\
 compatir & to sympathise\\
 \cellcolor{gray!6}{le nom de famille} & \cellcolor{gray!6}{the surname}\\
 enterrer & to bury\\
-\cellcolor{gray!6}{bien que} & \cellcolor{gray!6}{\vphantom{1} although}\\
-un discours & an utterance\\
+\cellcolor{gray!6}{raffiné} & \cellcolor{gray!6}{\vphantom{1} exquisite}\\
+présenter, comporter & to \vphantom{1} feature\\
 \addlinespace
-\cellcolor{gray!6}{en dépit de} & \cellcolor{gray!6}{in spite of}\\
-une déception & a disappointment\\
-\cellcolor{gray!6}{parmi} & \cellcolor{gray!6}{among(st)}\\
-pourtant & yet\\
-\cellcolor{gray!6}{car} & \cellcolor{gray!6}{for}\\
+\cellcolor{gray!6}{demeurer} & \cellcolor{gray!6}{to \vphantom{1} remain}\\
+au lieu de & instead \vphantom{1} of\\
+\cellcolor{gray!6}{aisé} & \cellcolor{gray!6}{\vphantom{1} wealthy}\\
+un foyer & a \vphantom{1} household\\
+\cellcolor{gray!6}{un surnom} & \cellcolor{gray!6}{a \vphantom{1} nickname}\\
 \addlinespace
-à moins que & unless\\
-\cellcolor{gray!6}{une marque, un signe} & \cellcolor{gray!6}{a token}\\
-travailler dur & to toil\\
-\cellcolor{gray!6}{par conséquent} & \cellcolor{gray!6}{therefore}\\
-un fardeau & a burden\\
+façonner & to \vphantom{2} craft\\
+\cellcolor{gray!6}{un journal intime} & \cellcolor{gray!6}{a \vphantom{1} diary}\\
+avoir honte de & to be ashamed \vphantom{1} of\\
+\cellcolor{gray!6}{de l’adresse} & \cellcolor{gray!6}{\vphantom{1} deftness}\\
+un point (couture) & a \vphantom{1} stitch\\
 \addlinespace
-\cellcolor{gray!6}{sanctifier} & \cellcolor{gray!6}{to hallow}\\
-un but & an aim\\
-\cellcolor{gray!6}{un grand pas} & \cellcolor{gray!6}{a stride}\\
-un zélote & a votary\\
-\cellcolor{gray!6}{adorer} & \cellcolor{gray!6}{to worship}\\
+\cellcolor{gray!6}{du tissu} & \cellcolor{gray!6}{\vphantom{1} fabric}\\
+une aquarelle & a \vphantom{1} watercolour\\
+\cellcolor{gray!6}{détester} & \cellcolor{gray!6}{to \vphantom{2} loathe}\\
+élever qqch & to \vphantom{1} raise\\
+\cellcolor{gray!6}{avertir de} & \cellcolor{gray!6}{to warn \vphantom{1} aganist}\\
 \addlinespace
-un coffret & a casket\\
-\cellcolor{gray!6}{au milieu de} & \cellcolor{gray!6}{amid(st)}\\
-un repos & a rest\\
-\cellcolor{gray!6}{s'efforcer} & \cellcolor{gray!6}{to strive}\\
-capter & to engross\\
+diffamatoire & \vphantom{1} libellous\\
+\cellcolor{gray!6}{entreprendre} & \cellcolor{gray!6}{to \vphantom{1} undertake}\\
+dissimuler & to \vphantom{1} conceal\\
+\cellcolor{gray!6}{hors d'atteinte} & \cellcolor{gray!6}{out of \vphantom{1} reach}\\
+récupérer & to \vphantom{1} retrieve\\
 \addlinespace
-\cellcolor{gray!6}{la perspicacité} & \cellcolor{gray!6}{insight}\\
-ignorer & to disreguard\\
-\cellcolor{gray!6}{manquer} & \cellcolor{gray!6}{to lack}\\
-s'étonner & to wonder\\
-\cellcolor{gray!6}{inonder} & \cellcolor{gray!6}{to flood}\\
+\cellcolor{gray!6}{estimer} & \cellcolor{gray!6}{to \vphantom{1} reckon}\\
+minutieux & \vphantom{1} painstaking\\
+\cellcolor{gray!6}{éviter, fuir} & \cellcolor{gray!6}{to \vphantom{1} shun}\\
+remarquer & to \vphantom{1} notice\\
+\cellcolor{gray!6}{ancien, ex} & \cellcolor{gray!6}{\vphantom{1} former}\\
 \addlinespace
-des élucubrations & twaddle\\
-\cellcolor{gray!6}{envers} & \cellcolor{gray!6}{towards}\\
-cesser & to cease\\
-\cellcolor{gray!6}{raffiné} & \cellcolor{gray!6}{exquisite}\\
-présenter, comporter & to feature\\
+un propriétaire & an \vphantom{1} owner\\
+\cellcolor{gray!6}{abandonner} & \cellcolor{gray!6}{to give \vphantom{1} up}\\
+viser à & to \vphantom{1} aim\\
+\cellcolor{gray!6}{procurer} & \cellcolor{gray!6}{to \vphantom{1} provide}\\
+un salaire & a \vphantom{1} wage\\
 \addlinespace
-\cellcolor{gray!6}{demeurer} & \cellcolor{gray!6}{to remain}\\
-au lieu de & instead of\\
-\cellcolor{gray!6}{bien que} & \cellcolor{gray!6}{although}\\
-aisé & wealthy\\
-\cellcolor{gray!6}{un foyer} & \cellcolor{gray!6}{a household}\\
+\cellcolor{gray!6}{se classer} & \cellcolor{gray!6}{to \vphantom{1} rank}\\
+parmi & \vphantom{1} among\\
+\cellcolor{gray!6}{une implication, un engagement} & \cellcolor{gray!6}{an \vphantom{1} involvement}\\
+un conservateur de musée & a \vphantom{1} curator\\
+\cellcolor{gray!6}{réduire les dépenses} & \cellcolor{gray!6}{to cut \vphantom{1} expenses}\\
 \addlinespace
-un surnom & a nickname\\
-\cellcolor{gray!6}{façonner} & \cellcolor{gray!6}{to craft}\\
-un journal intime & a diary\\
-\cellcolor{gray!6}{avoir honte de} & \cellcolor{gray!6}{to be ashamed of}\\
-de l’adresse & deftness\\
+un logiciel & a \vphantom{1} software\\
+\cellcolor{gray!6}{un détaillant} & \cellcolor{gray!6}{a \vphantom{1} retailer}\\
+la conscience & the \vphantom{1} awareness\\
+\cellcolor{gray!6}{contrecarrer} & \cellcolor{gray!6}{to \vphantom{1} thwart}\\
+une action & a \vphantom{1} deed\\
 \addlinespace
-\cellcolor{gray!6}{un point (couture)} & \cellcolor{gray!6}{a stitch}\\
-du tissu & fabric\\
-\cellcolor{gray!6}{une aquarelle} & \cellcolor{gray!6}{a watercolour}\\
+\cellcolor{gray!6}{léguer} & \cellcolor{gray!6}{to \vphantom{1} bequeath}\\
+digne & \vphantom{1} worthy\\
+\cellcolor{gray!6}{gagner de l'argent en travaillant} & \cellcolor{gray!6}{to \vphantom{1} earn}\\
+s'enrôler & to enlist\\
+\cellcolor{gray!6}{fort probable} & \cellcolor{gray!6}{likely}\\
+\addlinespace
+le ravitaillement & the supply\\
+\cellcolor{gray!6}{pendant que} & \cellcolor{gray!6}{while}\\
+fournir & to provide\\
+\cellcolor{gray!6}{déménager} & \cellcolor{gray!6}{to move}\\
+décerner & to award\\
+\addlinespace
+\cellcolor{gray!6}{biaisé, partial} & \cellcolor{gray!6}{biassed}\\
+étendre, étirer & to stretch\\
+\cellcolor{gray!6}{dentelle} & \cellcolor{gray!6}{lace}\\
+résoudre & to work out\\
+\cellcolor{gray!6}{rendre, donner} & \cellcolor{gray!6}{to hand out}\\
+\addlinespace
+une enchère, une offre d’achat & a bid\\
+\cellcolor{gray!6}{“tenir debout“, “se tenir“} & \cellcolor{gray!6}{to have legs}\\
+promouvoir (p...) & to promote\\
+\cellcolor{gray!6}{une mission, une tâche} & \cellcolor{gray!6}{an assignment}\\
+dépeindre & to depict\\
+\addlinespace
+\cellcolor{gray!6}{sauvage} & \cellcolor{gray!6}{wild}\\
+en apparence & seemingly\\
+\cellcolor{gray!6}{un actif, un atout} & \cellcolor{gray!6}{an asset}\\
+au premier plan & in the foreground\\
+\cellcolor{gray!6}{rester, demeurer} & \cellcolor{gray!6}{to remain}\\
+\addlinespace
+du mobilier, des meubles & furniture\\
+\cellcolor{gray!6}{une réunion} & \cellcolor{gray!6}{a meeting}\\
+emprunter à & to borrow from\\
+\cellcolor{gray!6}{se moquer de} & \cellcolor{gray!6}{to poke fun at}\\
+une échelle (de grandeur) & a scale\\
+\addlinespace
+\cellcolor{gray!6}{champ, portée, marge de manœuvre} & \cellcolor{gray!6}{scope}\\
+bien aimer qqch & to be fond of stg\\
+\cellcolor{gray!6}{agencement, disposition, maquette} & \cellcolor{gray!6}{a layout}\\
+un but, un objectif (p...) & a purpose\\
+\cellcolor{gray!6}{un scrupule} & \cellcolor{gray!6}{a qualm}\\
+\addlinespace
+qui s'ensuit, final & eventual\\
+\cellcolor{gray!6}{un équipage} & \cellcolor{gray!6}{a crew}\\
+probable, susceptible & likely\\
+\cellcolor{gray!6}{s'excuser de qqch} & \cellcolor{gray!6}{to apologize}\\
+agile & nimble\\
+\addlinespace
+\cellcolor{gray!6}{avertir} & \cellcolor{gray!6}{to warn}\\
+diriger qqch & to head stg\\
+\cellcolor{gray!6}{rendement, productivité} & \cellcolor{gray!6}{output}\\
+manipuler qqch & to handle stg\\
+\cellcolor{gray!6}{confier qqch à qn} & \cellcolor{gray!6}{to entrust sb with stg}\\
+\addlinespace
+une esquisse & a sketch\\
+\cellcolor{gray!6}{continuer, poursuivre} & \cellcolor{gray!6}{to carry on}\\
+vivant, plein d'entrain & lively\\
+\cellcolor{gray!6}{reconnaître, admettre} & \cellcolor{gray!6}{to acknowledge}\\
+un moyens de & a means to\\
+\addlinespace
+\cellcolor{gray!6}{planifier} & \cellcolor{gray!6}{to schedule}\\
+vendre la mèche & to spill the beans\\
+\cellcolor{gray!6}{un dollar (fam.)} & \cellcolor{gray!6}{a buck}\\
+il semble que & it looks as if\\
+\cellcolor{gray!6}{dépenser} & \cellcolor{gray!6}{to spend}\\
+\addlinespace
+une tempête & a storm\\
+\cellcolor{gray!6}{superficiel, peu profond} & \cellcolor{gray!6}{shallow}\\
+du jour au lendemain & overnight\\
+\cellcolor{gray!6}{un modèle} & \cellcolor{gray!6}{a template}\\
+un but (p...) & a purpose\\
+\addlinespace
+\cellcolor{gray!6}{une enchère} & \cellcolor{gray!6}{an auction}\\
+faire 1m. de large & to be 1m. wide\\
+\cellcolor{gray!6}{fournir (p...)} & \cellcolor{gray!6}{to provide sb with}\\
+essayer de & to attempt to\\
+\cellcolor{gray!6}{plier} & \cellcolor{gray!6}{to fold}\\
+\addlinespace
+bien que & \vphantom{1} although\\
+\cellcolor{gray!6}{un discours} & \cellcolor{gray!6}{an utterance}\\
+en dépit de & in spite of\\
+\cellcolor{gray!6}{une déception} & \cellcolor{gray!6}{a disappointment}\\
+parmi & among(st)\\
+\addlinespace
+\cellcolor{gray!6}{pourtant} & \cellcolor{gray!6}{yet}\\
+car & for\\
+\cellcolor{gray!6}{à moins que} & \cellcolor{gray!6}{unless}\\
+une marque, un signe & a token\\
+\cellcolor{gray!6}{travailler dur} & \cellcolor{gray!6}{to toil}\\
+\addlinespace
+par conséquent & therefore\\
+\cellcolor{gray!6}{un fardeau} & \cellcolor{gray!6}{a burden}\\
+sanctifier & to hallow\\
+\cellcolor{gray!6}{un but} & \cellcolor{gray!6}{an aim}\\
+un grand pas & a stride\\
+\addlinespace
+\cellcolor{gray!6}{un zélote} & \cellcolor{gray!6}{a votary}\\
+adorer & to worship\\
+\cellcolor{gray!6}{un coffret} & \cellcolor{gray!6}{a casket}\\
+au milieu de & amid(st)\\
+\cellcolor{gray!6}{un repos} & \cellcolor{gray!6}{a rest}\\
+\addlinespace
+s'efforcer & to strive\\
+\cellcolor{gray!6}{capter} & \cellcolor{gray!6}{to engross}\\
+la perspicacité & insight\\
+\cellcolor{gray!6}{ignorer} & \cellcolor{gray!6}{to disreguard}\\
+manquer & to lack\\
+\addlinespace
+\cellcolor{gray!6}{s'étonner} & \cellcolor{gray!6}{to wonder}\\
+inonder & to flood\\
+\cellcolor{gray!6}{des élucubrations} & \cellcolor{gray!6}{twaddle}\\
+envers & towards\\
+\cellcolor{gray!6}{cesser} & \cellcolor{gray!6}{to cease}\\
+\addlinespace
+raffiné & exquisite\\
+\cellcolor{gray!6}{présenter, comporter} & \cellcolor{gray!6}{to feature}\\
+demeurer & to remain\\
+\cellcolor{gray!6}{au lieu de} & \cellcolor{gray!6}{instead of}\\
+bien que & although\\
+\addlinespace
+\cellcolor{gray!6}{aisé} & \cellcolor{gray!6}{wealthy}\\
+un foyer & a household\\
+\cellcolor{gray!6}{un surnom} & \cellcolor{gray!6}{a nickname}\\
+façonner & to \vphantom{1} craft\\
+\cellcolor{gray!6}{un journal intime} & \cellcolor{gray!6}{a diary}\\
+\addlinespace
+avoir honte de & to be ashamed of\\
+\cellcolor{gray!6}{de l’adresse} & \cellcolor{gray!6}{deftness}\\
+un point (couture) & a stitch\\
+\cellcolor{gray!6}{du tissu} & \cellcolor{gray!6}{fabric}\\
+une aquarelle & a watercolour\\
+\addlinespace
+\cellcolor{gray!6}{détester} & \cellcolor{gray!6}{to \vphantom{1} loathe}\\
+élever qqch & to raise\\
+\cellcolor{gray!6}{avertir de} & \cellcolor{gray!6}{to warn aganist}\\
+diffamatoire & libellous\\
+\cellcolor{gray!6}{accomplir} & \cellcolor{gray!6}{to achieve}\\
+\addlinespace
+entreprendre & to undertake\\
+\cellcolor{gray!6}{dissimuler} & \cellcolor{gray!6}{to conceal}\\
+hors d'atteinte & out of reach\\
+\cellcolor{gray!6}{récupérer} & \cellcolor{gray!6}{to retrieve}\\
 détester & to loathe\\
-\cellcolor{gray!6}{élever qqch} & \cellcolor{gray!6}{to raise}\\
 \addlinespace
-avertir de & to warn aganist\\
-\cellcolor{gray!6}{diffamatoire} & \cellcolor{gray!6}{libellous}\\
-accomplir & to achieve\\
+\cellcolor{gray!6}{façonner} & \cellcolor{gray!6}{to craft}\\
+estimer & to reckon\\
+\cellcolor{gray!6}{une forme} & \cellcolor{gray!6}{a shape}\\
+minutieux & painstaking\\
+\cellcolor{gray!6}{éviter, fuir} & \cellcolor{gray!6}{to shun}\\
+\addlinespace
+remarquer & to notice\\
+\cellcolor{gray!6}{ancien, ex} & \cellcolor{gray!6}{former}\\
+un propriétaire & an owner\\
+\cellcolor{gray!6}{abandonner} & \cellcolor{gray!6}{to give up}\\
+viser à & to aim\\
+\addlinespace
+\cellcolor{gray!6}{procurer} & \cellcolor{gray!6}{to provide}\\
+un salaire & a wage\\
+\cellcolor{gray!6}{se classer} & \cellcolor{gray!6}{to rank}\\
+parmi & among\\
+\cellcolor{gray!6}{une implication, un engagement} & \cellcolor{gray!6}{an involvement}\\
+\addlinespace
+un conservateur de musée & a curator\\
+\cellcolor{gray!6}{réduire les dépenses} & \cellcolor{gray!6}{to cut expenses}\\
+un logiciel & a software\\
+\cellcolor{gray!6}{un détaillant} & \cellcolor{gray!6}{a retailer}\\
+la conscience & the awareness\\
+\addlinespace
+\cellcolor{gray!6}{contrecarrer} & \cellcolor{gray!6}{to thwart}\\
+une action & a deed\\
+\cellcolor{gray!6}{léguer} & \cellcolor{gray!6}{to bequeath}\\
+digne & worthy\\
+\cellcolor{gray!6}{gagner de l'argent en travaillant} & \cellcolor{gray!6}{to earn}\\
 \bottomrule
 \end{longtable}
 
@@ -323,6 +487,12 @@ Il a dû oublier de leur envoyer la nouvelle maquette. & He must have forgotten 
 Il se pourrait que cette œuvre ait été découverte par hasard. & This work might have been discovered by chance.\\
 \cellcolor{gray!6}{Voilà des mois que je me pose aussi cette question !} & \cellcolor{gray!6}{I've been wondering for months about that too!}\\
 Le projet sur lequel je travaille depuis vendredi m'ennuie un peu. & The project I've been working on since Friday bores me.\\
+\cellcolor{gray!6}{Ces ouvrages ont été imprimés et reliés au début du vingtième siècle.} & \cellcolor{gray!6}{These books were bound and printed at the beginning of the twentieth century.}\\
+\addlinespace
+On étudie encore l'impact de May Morris sur les Beaux Arts. & May Morris's impact on Fine Arts is still being studied.\\
+\cellcolor{gray!6}{On devrait davantage écouter les experts.} & \cellcolor{gray!6}{Insiders should be listened to more.}\\
+Les gens croient toujours que les motifs de May Morris ont été créés par son père. & May Morris's patterns are always believed to have been created by her father.\\
+\cellcolor{gray!6}{On pense que William Morris a été inspiré par une conférence sur la typographie.} & \cellcolor{gray!6}{William Morris is thought to have been inspired by a lecture on typography.}\\
 \bottomrule
 \end{longtable}
 
@@ -406,6 +576,33 @@ wealthy & /10/ & /\textipa{"welT.i}/\\
 diary & /100/ & /\textipa{"daI.@r.i}/\\
 \cellcolor{gray!6}{loathe} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l@UD}/}\\
 libellous & /100/ & /\textipa{"laIb.@l.@s}/\\
+\addlinespace
+\cellcolor{gray!6}{hurl} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{h3:l}/}\\
+notice & /10/ & /\textipa{"n@Ut.Is}/\\
+\cellcolor{gray!6}{awareness} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@."we@.n@s}/}\\
+software & /10/ & /\textipa{"s6ft.we@}/\\
+\cellcolor{gray!6}{worthy} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"w3:D.i}/}\\
+\addlinespace
+earn & /1/ & /\textipa{3:n}/\\
+\cellcolor{gray!6}{agreement} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@."gri:.m@nt}/}\\
+bequeath & /01/ & /\textipa{bi."kwi:D}/\\
+\cellcolor{gray!6}{thwart} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{TwO:t}/}\\
+obituary & /01000/ & /\textipa{@."bItS.u.@r.i}/\\
+\addlinespace
+\cellcolor{gray!6}{revival} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{ri."vaIv.@l}/}\\
+flourish & /10/ & /\textipa{"fl2r.IS}/\\
+\cellcolor{gray!6}{intricate} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"Intr.Ik.@t}/}\\
+lively & /10/ & /\textipa{"laIv.li}/\\
+\cellcolor{gray!6}{author} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"O:T.@}/}\\
+\addlinespace
+entire & /010/ & /\textipa{In."taI.@}/\\
+\cellcolor{gray!6}{allow} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."laU}/}\\
+riot & /10/ & /\textipa{"raI.@t}/\\
+\cellcolor{gray!6}{placard} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pl\ae k.A:d}/}\\
+purpose & /10/ & /\textipa{"p3:p.@s}/\\
+\addlinespace
+\cellcolor{gray!6}{casualty} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"k\ae Z.u.@l.ti}/}\\
+digital & /100/ & /\textipa{"dIdZ.It.@l}/\\
 \bottomrule
 \end{longtable}
 
@@ -419,6 +616,7 @@ libellous & /100/ & /\textipa{"laIb.@l.@s}/\\
 Échéances & Instructions\\
 \midrule
 \cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.}\\
+03/12/2021 & Test 2h : Compréhension écrite / Vocabulaire / Traduction / Expression écrite (un paragraphe structuré de 300 mots)\\
 \bottomrule
 \end{longtable}
 
