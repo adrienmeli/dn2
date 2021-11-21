@@ -400,6 +400,63 @@ une action & a deed\\
 \cellcolor{gray!6}{léguer} & \cellcolor{gray!6}{to bequeath}\\
 digne & worthy\\
 \cellcolor{gray!6}{gagner de l'argent en travaillant} & \cellcolor{gray!6}{to earn}\\
+\addlinespace
+s'agenouiller & to kneel\\
+\cellcolor{gray!6}{une rayure} & \cellcolor{gray!6}{a stripe}\\
+occidental & Western\\
+\cellcolor{gray!6}{côte-à-côte} & \cellcolor{gray!6}{side-by-side}\\
+exposer (e...) & to exhibit\\
+\addlinespace
+\cellcolor{gray!6}{exposer (d...)} & \cellcolor{gray!6}{to display}\\
+un point d'orgue & a highlight\\
+\cellcolor{gray!6}{un faux} & \cellcolor{gray!6}{a fake}\\
+remettre en cause & to call into question\\
+\cellcolor{gray!6}{un spécialiste} & \cellcolor{gray!6}{a scholar}\\
+\addlinespace
+commander une œuvre d'art & to commission\\
+\cellcolor{gray!6}{rendre possible} & \cellcolor{gray!6}{to enable}\\
+un trait de pinceau & a brush stroke\\
+\cellcolor{gray!6}{rendre une décision} & \cellcolor{gray!6}{to rule}\\
+superviser & to oversee\\
+\addlinespace
+\cellcolor{gray!6}{un petit morceau} & \cellcolor{gray!6}{a patch}\\
+duper, abuser & to fool\\
+\cellcolor{gray!6}{une veuve} & \cellcolor{gray!6}{a widow}\\
+à la fin, finalement & eventually\\
+\cellcolor{gray!6}{une arnaque} & \cellcolor{gray!6}{a scam}\\
+\addlinespace
+servir une peine de prison & to do the time\\
+\cellcolor{gray!6}{médicolégal} & \cellcolor{gray!6}{forensic}\\
+un marchand d'art & an art dealer\\
+\cellcolor{gray!6}{tristement célèbre} & \cellcolor{gray!6}{infamous}\\
+une vente aux enchères & an auction\\
+\addlinespace
+\cellcolor{gray!6}{reconnu coupable} & \cellcolor{gray!6}{convicted}\\
+récolter (un profit) & to net\\
+\cellcolor{gray!6}{acheter} & \cellcolor{gray!6}{to purchase}\\
+reconnaître & to acknowledge\\
+\cellcolor{gray!6}{courageux, hardi} & \cellcolor{gray!6}{bold}\\
+\addlinespace
+un artisan & a craftsman\\
+\cellcolor{gray!6}{un témoin} & \cellcolor{gray!6}{a witness}\\
+exact & accurate\\
+\cellcolor{gray!6}{un orteil} & \cellcolor{gray!6}{a toe}\\
+un casque & a helmet\\
+\addlinespace
+\cellcolor{gray!6}{regarder fixement} & \cellcolor{gray!6}{to stare}\\
+mériter & to deserve\\
+\cellcolor{gray!6}{contrefaire, falsifier} & \cellcolor{gray!6}{to forge}\\
+inoffensif & innocuous\\
+\cellcolor{gray!6}{un mélange} & \cellcolor{gray!6}{a blend}\\
+\addlinespace
+divertir, distraire & to entertain\\
+\cellcolor{gray!6}{intéressé, cupide} & \cellcolor{gray!6}{money-grubbing}\\
+riche, aisé & wealthy\\
+\cellcolor{gray!6}{une série} & \cellcolor{gray!6}{a series}\\
+dévoiler, révéler & to expose\\
+\addlinespace
+\cellcolor{gray!6}{inattendu} & \cellcolor{gray!6}{unexpected}\\
+gagner de l'argent & to earn money\\
 \bottomrule
 \end{longtable}
 
@@ -501,110 +558,154 @@ Les gens croient toujours que les motifs de May Morris ont été créés par son
 ##  Prononciation 
 
 
-\begin{longtable}{lll}
+
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{abroad} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."brO:d}/}\\
-pressure & /10/ & /\textipa{"preS.@}/\\
-\cellcolor{gray!6}{occur} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."k3:}/}\\
-unique & /01/ & /\textipa{ju."ni:k}/\\
-\cellcolor{gray!6}{achieve} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."tSi:v}/}\\
+\cellcolor{gray!6}{abroad}\\
+pressure\\
+\cellcolor{gray!6}{occur}\\
+unique\\
+\cellcolor{gray!6}{achieve}\\
 \addlinespace
-empire & /100/ & /\textipa{"emp.aI.@}/\\
-\cellcolor{gray!6}{era} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"I@r.@}/}\\
-scientific & /2010/ & /\textipa{""saI.@n."tIf.Ik}/\\
-\cellcolor{gray!6}{breakthrough} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"breIk.Tru:}/}\\
-ancient & /10/ & /\textipa{"eInS.@nt}/\\
+empire\\
+\cellcolor{gray!6}{era}\\
+scientific\\
+\cellcolor{gray!6}{breakthrough}\\
+ancient\\
 \addlinespace
-\cellcolor{gray!6}{throughout} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Tru."aUt}/}\\
-associate & /0100/ & /\textipa{@."s@US.i.eIt}/\\
-\cellcolor{gray!6}{linen} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"lIn.In}/}\\
-leather & /10/ & /\textipa{"leD.@}/\\
-\cellcolor{gray!6}{gilded} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/NA/}\\
+\cellcolor{gray!6}{throughout}\\
+associate\\
+\cellcolor{gray!6}{linen}\\
+leather\\
+\cellcolor{gray!6}{gilded}\\
 \addlinespace
-rough & /1/ & /\textipa{r2f}/\\
-\cellcolor{gray!6}{lecture} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"lek.tS@}/}\\
-feature & /10/ & /\textipa{"fi:tS.@}/\\
-\cellcolor{gray!6}{issue} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"IS.u:}/}\\
-cathedral & /010/ & /\textipa{k@."Ti:dr.@l}/\\
+rough\\
+\cellcolor{gray!6}{lecture}\\
+feature\\
+\cellcolor{gray!6}{issue}\\
+cathedral\\
 \addlinespace
-\cellcolor{gray!6}{bindery} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"baInd.@r.i}/}\\
-blemish & /10/ & /\textipa{"blem.IS}/\\
-\cellcolor{gray!6}{pattern} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"p\ae t.@n}/}\\
-emphasize & // & /NA/\\
-\cellcolor{gray!6}{sequel} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"si:k.w@l}/}\\
+\cellcolor{gray!6}{bindery}\\
+blemish\\
+\cellcolor{gray!6}{pattern}\\
+emphasize\\
+\cellcolor{gray!6}{sequel}\\
 \addlinespace
-manufacture & /2010/ & /\textipa{""m\ae n.ju."f\ae k.tS@}/\\
-\cellcolor{gray!6}{thorough} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"T2r.@}/}\\
-shoddy & /10/ & /\textipa{"S6d.i}/\\
-\cellcolor{gray!6}{therefore} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"De@.fO:}/}\\
-avoid & /01/ & /\textipa{@."vOId}/\\
+manufacture\\
+\cellcolor{gray!6}{thorough}\\
+shoddy\\
+\cellcolor{gray!6}{therefore}\\
+avoid\\
 \addlinespace
-\cellcolor{gray!6}{conspicuous} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{k@n."spIk.ju.@s}/}\\
-pleasure & /10/ & /\textipa{"pleZ.@}/\\
-\cellcolor{gray!6}{mediocre} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""mi:d.i."@Uk.@}/}\\
-novel & /10/ & /\textipa{"n6v.@l}/\\
-\cellcolor{gray!6}{signature} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sIg.n@tS.@}/}\\
+\cellcolor{gray!6}{conspicuous}\\
+pleasure\\
+\cellcolor{gray!6}{mediocre}\\
+novel\\
+\cellcolor{gray!6}{signature}\\
 \addlinespace
-labour & /10/ & /\textipa{"leIb.@}/\\
-\cellcolor{gray!6}{although} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{O:l."D@U}/}\\
-worthless & /10/ & /\textipa{"w3:T.l@s}/\\
-\cellcolor{gray!6}{knowledge} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"n6l.IdZ}/}\\
-burden & /10/ & /\textipa{"b3:d.@n}/\\
+labour\\
+\cellcolor{gray!6}{although}\\
+worthless\\
+\cellcolor{gray!6}{knowledge}\\
+burden\\
 \addlinespace
-\cellcolor{gray!6}{society} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{s@."saI.@t.i}/}\\
-ethical & /100/ & /\textipa{"eT.Ik.@l}/\\
-\cellcolor{gray!6}{contemporary} & \cellcolor{gray!6}{/01000/} & \cellcolor{gray!6}{/\textipa{k@n."temp.@r.@r.i}/}\\
-singer & /10/ & /\textipa{"sIN.@}/\\
-\cellcolor{gray!6}{medium} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"mi:d.i.@m}/}\\
+\cellcolor{gray!6}{society}\\
+ethical\\
+\cellcolor{gray!6}{contemporary}\\
+singer\\
+\cellcolor{gray!6}{medium}\\
 \addlinespace
-genuine & /100/ & /\textipa{"dZen.ju.In}/\\
-\cellcolor{gray!6}{advertise} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"\ae d.v@.taIz}/}\\
-bury & /10/ & /\textipa{"ber.i}/\\
-\cellcolor{gray!6}{series} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"sI@r.i:z}/}\\
-stationery & /1000/ & /\textipa{"steIS.@n.@r.i}/\\
+genuine\\
+\cellcolor{gray!6}{advertise}\\
+bury\\
+\cellcolor{gray!6}{series}\\
+stationery\\
 \addlinespace
-\cellcolor{gray!6}{study} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"st2d.i}/}\\
-thoughtful & /10/ & /\textipa{"TO:t.f@l}/\\
-\cellcolor{gray!6}{initial} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{I."nIS.@l}/}\\
-chore & /1/ & /\textipa{tSO:}/\\
-\cellcolor{gray!6}{instead} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."sted}/}\\
+\cellcolor{gray!6}{study}\\
+thoughtful\\
+\cellcolor{gray!6}{initial}\\
+chore\\
+\cellcolor{gray!6}{instead}\\
 \addlinespace
-wealthy & /10/ & /\textipa{"welT.i}/\\
-\cellcolor{gray!6}{journey} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dZ3:n.i}/}\\
-diary & /100/ & /\textipa{"daI.@r.i}/\\
-\cellcolor{gray!6}{loathe} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l@UD}/}\\
-libellous & /100/ & /\textipa{"laIb.@l.@s}/\\
+wealthy\\
+\cellcolor{gray!6}{journey}\\
+diary\\
+\cellcolor{gray!6}{loathe}\\
+libellous\\
 \addlinespace
-\cellcolor{gray!6}{hurl} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{h3:l}/}\\
-notice & /10/ & /\textipa{"n@Ut.Is}/\\
-\cellcolor{gray!6}{awareness} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@."we@.n@s}/}\\
-software & /10/ & /\textipa{"s6ft.we@}/\\
-\cellcolor{gray!6}{worthy} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"w3:D.i}/}\\
+\cellcolor{gray!6}{hurl}\\
+notice\\
+\cellcolor{gray!6}{awareness}\\
+software\\
+\cellcolor{gray!6}{worthy}\\
 \addlinespace
-earn & /1/ & /\textipa{3:n}/\\
-\cellcolor{gray!6}{agreement} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@."gri:.m@nt}/}\\
-bequeath & /01/ & /\textipa{bi."kwi:D}/\\
-\cellcolor{gray!6}{thwart} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{TwO:t}/}\\
-obituary & /01000/ & /\textipa{@."bItS.u.@r.i}/\\
+earn\\
+\cellcolor{gray!6}{agreement}\\
+bequeath\\
+\cellcolor{gray!6}{thwart}\\
+obituary\\
 \addlinespace
-\cellcolor{gray!6}{revival} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{ri."vaIv.@l}/}\\
-flourish & /10/ & /\textipa{"fl2r.IS}/\\
-\cellcolor{gray!6}{intricate} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"Intr.Ik.@t}/}\\
-lively & /10/ & /\textipa{"laIv.li}/\\
-\cellcolor{gray!6}{author} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"O:T.@}/}\\
+\cellcolor{gray!6}{revival}\\
+flourish\\
+\cellcolor{gray!6}{intricate}\\
+lively\\
+\cellcolor{gray!6}{author}\\
 \addlinespace
-entire & /010/ & /\textipa{In."taI.@}/\\
-\cellcolor{gray!6}{allow} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."laU}/}\\
-riot & /10/ & /\textipa{"raI.@t}/\\
-\cellcolor{gray!6}{placard} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pl\ae k.A:d}/}\\
-purpose & /10/ & /\textipa{"p3:p.@s}/\\
+entire\\
+\cellcolor{gray!6}{allow}\\
+riot\\
+\cellcolor{gray!6}{placard}\\
+purpose\\
 \addlinespace
-\cellcolor{gray!6}{casualty} & \cellcolor{gray!6}{/1000/} & \cellcolor{gray!6}{/\textipa{"k\ae Z.u.@l.ti}/}\\
-digital & /100/ & /\textipa{"dIdZ.It.@l}/\\
+\cellcolor{gray!6}{casualty}\\
+digital\\
+\cellcolor{gray!6}{purchase}\\
+acknowledge\\
+\cellcolor{gray!6}{toe}\\
+\addlinespace
+accurate\\
+\cellcolor{gray!6}{raise}\\
+likely\\
+\cellcolor{gray!6}{museum}\\
+truth\\
+\addlinespace
+\cellcolor{gray!6}{innocuous}\\
+bold\\
+\cellcolor{gray!6}{forge}\\
+laboratory\\
+\cellcolor{gray!6}{career}\\
+\addlinespace
+figure\\
+\cellcolor{gray!6}{almost}\\
+portrait\\
+\cellcolor{gray!6}{through}\\
+highlight\\
+\addlinespace
+\cellcolor{gray!6}{commission}\\
+enable\\
+\cellcolor{gray!6}{stroke}\\
+fake\\
+\cellcolor{gray!6}{curator}\\
+\addlinespace
+argue\\
+\cellcolor{gray!6}{mayor}\\
+research\\
+\cellcolor{gray!6}{widow}\\
+eventually\\
+\addlinespace
+\cellcolor{gray!6}{infamous}\\
+vintage\\
+\cellcolor{gray!6}{auction}\\
+forensic\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
+
+NULL
 
 
 
